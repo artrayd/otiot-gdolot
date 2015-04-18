@@ -31,7 +31,7 @@ p, h1,h2,h3,h4,h5{
 }
 ````
 
-##פרטים טכנים
+## פרטים טכניים
 
 פונט נוצר על בסיס Noto Hebrew עם תוכנה חינמית
 <a href="http://www.cr8software.net/typelight.html" target="_blank">Type Light.</a>

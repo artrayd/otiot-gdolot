@@ -5,6 +5,7 @@
 בשפה העברית אין אותיות גדולות וחשבתי שצריך להיות פונט שיתן את האפשרות הזאת, זה בהחלט יכול לתת גיוון לשפה וגם הרבה יותר נוח  להשתמש. 
 
 <a href="http://otiot.artrayd.com" target="_blank">http://otiot.artrayd.com</a>
+<a href="https://www.facebook.com/otiotgdolot" target="_blank">עמוד פייסבוק</a>
 
 ##שימוש ב-WEB
 

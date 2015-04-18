@@ -33,7 +33,7 @@ p, h1,h2,h3,h4,h5{
 ##פרטים טכנים
 
 פונט נוצר על בסיס Noto Hebrew עם תוכנה חינמית
-<a href="http://www.cr8software.net/typelight.html" target="_blank">Type Light.
+<a href="http://www.cr8software.net/typelight.html" target="_blank">Type Light.</a>
 
 זאת גרסה ראשונה, אין לי ניסיון גדול בעיצוב פונטים ואני אשמח לכל אחד/ת שיצטרף לפרויקט. הפונט הזה הינו חינמי וכל אחד יכול להשתמש לכל מטרה ולשנות אותו לפי צרכיו של אותו משתמש.
 

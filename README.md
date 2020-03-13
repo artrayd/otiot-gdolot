@@ -8,7 +8,7 @@
 
 <a href="https://www.facebook.com/otiotgdolot" target="_blank">https://www.facebook.com/otiotgdolot</a>
 
-##שימוש ב-WEB
+שימוש ב-WEB
 
 חיבור פונט ב-CSS
 ````css
